@@ -66,7 +66,7 @@ const course = {
 const {courseInstructor: instructor} = course
 
 // console.log(courseInstructor);
-console.log(instructor);
+console.log(instructor); // another syntax for accessing the objects
 
 // {
 //     "name": "sudhanva",
